@@ -3,8 +3,8 @@ import NavLogo from "../assets/logo-text.png"
 
 const Navbar = () => {
     return (
-        <div className="sticky w-full bg-gray-700">
-           <nav className="flex justify-between container mx-auto h-18 max-w-300 items-center px-5 md-20 lg:px-0">
+        <div className="sticky top-0 z-50 w-full bg-gray-700">
+           <nav className="flex justify-between container mx-auto h-15 max-w-300 items-center px-4 md-20 lg:px-0">
                 <button className="block text-2xl text-gray-600 md:hidden transition hover:scale-[1.02]"><HiMenu/></button>
                 <img className="h-8 w-auto md-10" src={NavLogo} alt="Navbar Logo" />
                  <ul className="hidden items-center text-4 gap-5 md:flex">
