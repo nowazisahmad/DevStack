@@ -8,11 +8,11 @@ const Navbar = () => {
                 <button className="block text-2xl text-gray-600 md:hidden transition hover:scale-[1.02]"><HiMenu/></button>
                 <img className="h-8 w-auto md-10" src={NavLogo} alt="Navbar Logo" />
                  <ul className="hidden items-center text-4 gap-5 md:flex">
-                    <li><a href="#" className="text-blue-500 transition hover:text-blue-500">Home</a></li>
-                    <li><a href="#" className="text-blue-500 transition hover:text-blue-500">Technologies</a></li>
-                    <li><a href="#" className="text-blue-500 transition hover:text-blue-500">Projects</a></li>
-                    <li><a href="#" className="text-blue-500 transition hover:text-blue-500">About</a></li>
-                    <li><a href="#" className="text-blue-500 transition hover:text-blue-500">Contact</a></li>
+                    <li><a href="#" className="text-blue-500 transition hover:text-blue-700">Home</a></li>
+                    <li><a href="#" className="text-blue-500 transition hover:text-blue-700">Technologies</a></li>
+                    <li><a href="#" className="text-blue-500 transition hover:text-blue-700">Projects</a></li>
+                    <li><a href="#" className="text-blue-500 transition hover:text-blue-700">About</a></li>
+                    <li><a href="#" className="text-blue-500 transition hover:text-blue-700">Contact</a></li>
                  </ul>
                 <div className="flex items-center gap-2 md:gap-3">
                     <button className="btn btn-active bg-white border-none font-semibold rounded-3xl px-5 py-2 md:px-6 transition hover:scale-[1.02]">Sign In</button>
