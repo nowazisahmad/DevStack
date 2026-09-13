@@ -5,79 +5,111 @@
     "category": "Frontend",
     "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
     "icon": "../src/assets/React.png",
-    "rating": 4.8,
+    "rating": 4.7,
     "difficulty": "Beginner-Friendly",
-    "badge": "Popular"
+    "badge": "Popular",
+    "badgeStyle": {
+      "backgroundColor": "#BAE6FD",
+      "textColor": "#075985"
+    }
   },
   {
     "id": 2,
     "name": "Vue.js",
     "category": "Frontend",
-    "description": "An approachable, performant, and versatile framework for building user interfaces.",
+    "description": "An approachable, performant, and versatile framework for building web user interfaces.",
     "icon": "../src/assets/Vue.js.png",
     "rating": 4.8,
     "difficulty": "Beginner-Friendly",
-    "badge": "Versatile"
+    "badge": "Versatile",
+    "badgeStyle": {
+      "backgroundColor": "#BBF7D0",
+      "textColor": "#166534"
+    }
   },
   {
     "id": 3,
     "name": "Svelte",
     "category": "Frontend",
-    "description": "A compiler-based framework that shifts work from the browser to build time for fast applications.",
+    "description": "Compiler-enhanced web apps with compile-time reactivity and zero virtual DOM overhead.",
     "icon": "../src/assets/Svelte.png",
-    "rating": 4.4,
+    "rating": 4.8,
     "difficulty": "Intermediate",
-    "badge": "Fast"
+    "badge": "Fast",
+    "badgeStyle": {
+      "backgroundColor": "#FED7AA",
+      "textColor": "#9A3412"
+    }
   },
   {
     "id": 4,
     "name": "Next.js",
     "category": "Frontend",
-    "description": "A React framework for full-stack web applications with hybrid static and server rendering.",
+    "description": "The React framework for full-stack web applications with hybrid static and server rendering.",
     "icon": "../src/assets/Next.js.png",
-    "rating": 4.9,
+    "rating": 4.7,
     "difficulty": "Intermediate",
-    "badge": "SSR / Edge"
+    "badge": "SSR / Edge",
+    "badgeStyle": {
+      "backgroundColor": "#E9D5FF",
+      "textColor": "#6B21A8"
+    }
   },
   {
     "id": 5,
     "name": "Node.js",
     "category": "Backend",
-    "description": "An asynchronous event-driven JavaScript runtime built for scalable network applications.",
-    "icon": "../src/assets/Node.js.png",
+    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 engine.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
     "rating": 4.8,
     "difficulty": "Intermediate",
-    "badge": "Standard"
+    "badge": "Standard",
+    "badgeStyle": {
+      "backgroundColor": "#BBF7D0",
+      "textColor": "#166534"
+    }
   },
   {
     "id": 6,
     "name": "PostgreSQL",
     "category": "Database",
     "description": "A powerful open-source object-relational database system with proven reliability.",
-    "icon": "../src/assets/PostgresSQL.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
     "rating": 4.9,
     "difficulty": "Intermediate",
-    "badge": "Top SQL"
+    "badge": "Top SQL",
+    "badgeStyle": {
+      "backgroundColor": "#BFDBFE",
+      "textColor": "#1E40AF"
+    }
   },
   {
     "id": 7,
     "name": "Redis",
     "category": "Database",
-    "description": "An in-memory data structure store used as a high-speed database, cache, and message broker.",
-    "icon": "../src/assets/Redis.png",
+    "description": "In-memory data structure store used as a high-speed database, cache, and message broker.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
     "rating": 4.8,
     "difficulty": "Intermediate",
-    "badge": "Cache"
+    "badge": "Cache",
+    "badgeStyle": {
+      "backgroundColor": "#FECACA",
+      "textColor": "#991B1B"
+    }
   },
   {
     "id": 8,
     "name": "JavaScript",
     "category": "Language",
-    "description": "The versatile, ubiquitous scripting language powering dynamic behavior across the web.",
+    "description": "The versatile, ubiquitous scripting language powering dynamic experiences across the web.",
     "icon": "../src/assets/JavaScript.png",
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
-    "badge": "Ubiquitous"
+    "badge": "Ubiquitous",
+    "badgeStyle": {
+      "backgroundColor": "#FEF08A",
+      "textColor": "#854D0E"
+    }
   },
   {
     "id": 9,
@@ -87,7 +119,11 @@
     "icon": "../src/assets/TypeScript.png",
     "rating": 4.9,
     "difficulty": "Intermediate",
-    "badge": "Essential"
+    "badge": "Essential",
+    "badgeStyle": {
+      "backgroundColor": "#BFDBFE",
+      "textColor": "#1E3A8A"
+    }
   },
   {
     "id": 10,
@@ -97,17 +133,25 @@
     "icon": "../src/assets/Java.png",
     "rating": 4.6,
     "difficulty": "Intermediate",
-    "badge": "Robust"
+    "badge": "Robust",
+    "badgeStyle": {
+      "backgroundColor": "#BAE6FD",
+      "textColor": "#075985"
+    }
   },
   {
     "id": 11,
     "name": "Tailwind CSS",
     "category": "Styling",
-    "description": "A utility-first CSS framework packed with classes that can be composed to build custom UIs.",
+    "description": "A utility-first CSS framework packed with classes that can be composed to build custom UI.",
     "icon": "../src/assets/Tailwind CSS.png",
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
-    "badge": "Modern"
+    "badge": "Modern",
+    "badgeStyle": {
+      "backgroundColor": "#A5F3FC",
+      "textColor": "#155E75"
+    }
   },
   {
     "id": 12,
@@ -117,6 +161,10 @@
     "icon": "../src/assets/Docker.png",
     "rating": 4.9,
     "difficulty": "Intermediate",
-    "badge": "Containers"
+    "badge": "Containers",
+    "badgeStyle": {
+      "backgroundColor": "#BAE6FD",
+      "textColor": "#075985"
+    }
   }
 ]

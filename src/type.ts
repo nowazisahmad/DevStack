@@ -7,4 +7,8 @@ export interface ITechnologie {
   rating: number;
   difficulty: string;
   badge: string;
+  badgeStyle: {
+      backgroundColor: string;
+      textColor: string;
+    }
 }
