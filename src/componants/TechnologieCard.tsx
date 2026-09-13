@@ -1,4 +1,4 @@
-import { useState, type Dispatch, type SetStateAction } from "react";
+import { type Dispatch, type SetStateAction } from "react";
 import type { ITechnologie } from "../type";
 import { Bounce, toast } from "react-toastify";
 
