@@ -4,7 +4,7 @@
     "name": "React",
     "category": "Frontend",
     "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
-    "icon": "../src/assets/React.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
     "rating": 4.7,
     "difficulty": "Beginner-Friendly",
     "badge": "Popular",
@@ -18,7 +18,7 @@
     "name": "Vue.js",
     "category": "Frontend",
     "description": "An approachable, performant, and versatile framework for building web user interfaces.",
-    "icon": "../src/assets/Vue.js.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
     "rating": 4.8,
     "difficulty": "Beginner-Friendly",
     "badge": "Versatile",
@@ -32,7 +32,7 @@
     "name": "Svelte",
     "category": "Frontend",
     "description": "Compiler-enhanced web apps with compile-time reactivity and zero virtual DOM overhead.",
-    "icon": "../src/assets/Svelte.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg",
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Fast",
@@ -46,7 +46,7 @@
     "name": "Next.js",
     "category": "Frontend",
     "description": "The React framework for full-stack web applications with hybrid static and server rendering.",
-    "icon": "../src/assets/Next.js.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
     "rating": 4.7,
     "difficulty": "Intermediate",
     "badge": "SSR / Edge",
@@ -102,7 +102,7 @@
     "name": "JavaScript",
     "category": "Language",
     "description": "The versatile, ubiquitous scripting language powering dynamic experiences across the web.",
-    "icon": "../src/assets/JavaScript.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
     "badge": "Ubiquitous",
@@ -116,7 +116,7 @@
     "name": "TypeScript",
     "category": "Language",
     "description": "A strongly typed programming language that builds on JavaScript for robust tooling.",
-    "icon": "../src/assets/TypeScript.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
     "rating": 4.9,
     "difficulty": "Intermediate",
     "badge": "Essential",
@@ -130,7 +130,7 @@
     "name": "Java",
     "category": "Language",
     "description": "A secure, object-oriented programming language designed for portability and scale.",
-    "icon": "../src/assets/Java.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
     "rating": 4.6,
     "difficulty": "Intermediate",
     "badge": "Robust",
@@ -144,7 +144,7 @@
     "name": "Tailwind CSS",
     "category": "Styling",
     "description": "A utility-first CSS framework packed with classes that can be composed to build custom UI.",
-    "icon": "../src/assets/Tailwind CSS.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
     "badge": "Modern",
@@ -158,13 +158,55 @@
     "name": "Docker",
     "category": "DevOps",
     "description": "A platform designed to build, share, and run containerized applications reliably.",
-    "icon": "../src/assets/Docker.png",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
     "rating": 4.9,
     "difficulty": "Intermediate",
     "badge": "Containers",
     "badgeStyle": {
       "backgroundColor": "#BAE6FD",
       "textColor": "#075985"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Git",
+    "category": "Tools",
+    "description": "A distributed version control system for tracking changes and collaborating on projects.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential",
+    "badgeStyle": {
+      "backgroundColor": "#FECACA",
+      "textColor": "#991B1B"
+    }
+  },
+  {
+    "id": 14,
+    "name": "GitHub",
+    "category": "Tools",
+    "description": "A developer platform for hosting code, collaboration, version control, and project management.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular",
+    "badgeStyle": {
+      "backgroundColor": "#E5E7EB",
+      "textColor": "#1F2937"
+    }
+  },
+  {
+    "id": 15,
+    "name": "VS Code",
+    "category": "Tools",
+    "description": "A lightweight but powerful source-code editor for modern web development.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential",
+    "badgeStyle": {
+      "backgroundColor": "#BFDBFE",
+      "textColor": "#1E40AF"
     }
   }
 ]
