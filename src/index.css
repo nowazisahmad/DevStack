@@ -3,3 +3,14 @@
 @theme {
     --background-image-brand-gradient: linear-gradient(to right, #FF7F50, #FF1493, #8A2BE2)
 }
+
+@keyframes modalSlideIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95) translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
